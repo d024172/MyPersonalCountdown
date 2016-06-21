@@ -5,5 +5,5 @@
 <Require feature="osapi"/>
 <Require feature="dynamic-height"/>
 </ModulePrefs>
-<Content type="html" href="http://opensocialuser.github.io/countdown/countdown.html"></Content>
+<Content type="html" href="https://opensocialuser.github.io/countdown/countdown.html"></Content>
 </Module>
