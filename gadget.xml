@@ -1,0 +1,9 @@
+# MyPersonalCountdown
+<Module>
+<ModulePrefs title="Countdown" height="300">
+<Require feature="wave"/>
+<Require feature="osapi"/>
+<Require feature="dynamic-height"/>
+</ModulePrefs>
+<Content type="html" href="http://opensocialuser.github.io/countdown/countdown.html"></Content>
+</Module>
